@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/decodificador-de-text/static/css/main.96265a47.css",
+    "main.js": "/decodificador-de-text/static/js/main.f04f265c.js",
+    "static/js/787.7b7c29a2.chunk.js": "/decodificador-de-text/static/js/787.7b7c29a2.chunk.js",
+    "static/media/imagem.png": "/decodificador-de-text/static/media/imagem.dc066a3bbfa6c56dcd89.png",
+    "index.html": "/decodificador-de-text/index.html",
+    "main.96265a47.css.map": "/decodificador-de-text/static/css/main.96265a47.css.map",
+    "main.f04f265c.js.map": "/decodificador-de-text/static/js/main.f04f265c.js.map",
+    "787.7b7c29a2.chunk.js.map": "/decodificador-de-text/static/js/787.7b7c29a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96265a47.css",
+    "static/js/main.f04f265c.js"
+  ]
+}
