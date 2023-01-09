@@ -1,1 +1,1 @@
-Linl do progeto : https://ernandesbitencourt.github.io/decodificador-de-text/
+Linl do projeto : https://ernandesbitencourt.github.io/decodificador-de-text/
